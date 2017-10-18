@@ -18,3 +18,4 @@ While the amount of pairs that are gained by all players add up to 13 or less.
       If the card is the same card that they asked for at the beginning of their turn, the player in turn gains a pair and may go again (repeat).
       If the card is not the same card that they asked for at the beginning of their turn, their turn ends.  repeat back to the loop, except that the player in turn is now the next player in the order.
 The game ends when 13 pairs are made. The winner is the player with the most pairs at the end.
+Remember to have fun!
