@@ -1,0 +1,20 @@
+Players gather around and make a circle, surrounding the pile of cards that is being used for the game.
+All players recieve five cards to begin with.
+An individual player's hand will be sorted by card number in any order they like:
+  The player usually orders their hand increasing in numerical value from left to right. else:
+  The player orders their hand increasing in numerical value from right to left. else:
+  The player doesn't order their hand and sorts cards in groups of the same numerical values.
+Before starting, determine the turn order among the players by age:
+  The oldest player gets the first turn:
+    From the first player, rotate clockwise with turns going from player to player without skipping. else:
+    Rotate counter-clockwise with turns going from player to player without skipping anyone.
+  The youngest player gets the first turn:
+    From the first player, rotate clockwise with turns going from player to player without skipping. else:
+    Rotate counter-clockwise with turns going from player to player without skipping anyone.
+While the amount of pairs that are gained by all players add up to 13 or less.
+  the first player must verbally inquire from any different player if they have any cards of a specific value:
+    If they have that card or multiple of that same card value, the player in question must give these cards to the first player. the player in turn gets a pair. They can go again (repeat).
+    If they don't have the card, then they must tell the current active player to draw a card, usually saying "go fish." The player in turn grabs a card from the center:
+      If the card is the same card that they asked for at the beginning of their turn, the player in turn gains a pair and may go again (repeat).
+      If the card is not the same card that they asked for at the beginning of their turn, their turn ends.  repeat back to the loop, except that the player in turn is now the next player in the order.
+The game ends when 13 pairs are made. The winner is the player with the most pairs at the end.
