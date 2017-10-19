@@ -18,7 +18,7 @@ While the amount of pairs that are gained by all players add up to 13 or less:
         ask for the card that you need and you know that person has from that person.
       you don't remember questions that ask for the same card you possess and ended with the other player not getting it:
         ask for a random one of your cards and ask from a random player other than you.
-    the card that you ask for must be a card that you possess in their hand
+    the card that you ask for must be a card that you possess in their hand.
     the asked player has that card or multiple of that same card value that was asked for:
       the player in question must give these cards to the you, the player in turn. the player in turn gets a pair.
     they don't have the card:
