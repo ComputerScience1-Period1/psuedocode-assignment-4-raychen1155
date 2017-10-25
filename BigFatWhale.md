@@ -1,0 +1,32 @@
+Go Fish
+
+Players gather around and make a circle; surrounding the pile of cards that is being used for the game
+All players recieve five cards to begin with
+An individual player's hand will be sorted by card number in any order they like:
+The player usually orders their hand increasing in numerical value from left to right. 
+  else:
+    The player orders their hand increasing in numerical value from right to left
+    
+Before starting, determine the turn order among the players by age:
+  The oldest player gets the first turn:
+    From the first player, rotate clockwise with turns going from player to player without skipping. else:
+      Rotate counter-clockwise with turns going from player to player without skipping anyone.
+
+While the amount of pairs that are gained by all players add up to 13 or less:
+  the first player must verbally inquire from any different player if they have any cards of a specific value:
+    recall any questions that were asked previously:
+      you remember questions that ask for the same card you possess and ended with the other player not getting it:
+        ask for the card that you need and you know that person has from that person.
+      you don't remember questions that ask for the same card you possess and ended with the other player not getting it:
+        ask for a random one of your cards and ask from a random player other than you.
+    the card that you ask for must be a card that you possess in their hand.
+    the asked player has that card or multiple of that same card value that was asked for:
+      the player in question must give these cards to the player in turn. The player in turn gets a pair.
+    they don't have the card:
+        then they must tell the current active player to draw a card, usually saying "go fish." The player in turn draws a card:
+          the card is the same card that they asked for at the beginning of their turn:
+            the player in turn gains a pair and may go again (repeat)
+          the card is not the same card that they asked for at the beginning of their turn:
+            their turn ends.  the player in turn is now the next player in the order
+The game ends when 13 pairs are made. The winner is the player with the most pairs at the end
+Remember to have fun!
