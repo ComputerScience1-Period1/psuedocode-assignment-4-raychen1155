@@ -1,14 +1,14 @@
 Go Fish
 
 Set up:
-1. Players gather around and make a circle, surrounding the pile of cards that is being used for the game.
+1. Players gather around and make a circle, surrounding the pile of cards that is used in order to play the game.
 2. All players recieve five cards to begin with.
 3. An individual player's hand will be sorted by card number in any order they like:
   The player usually orders their hand increasing in numerical value from left to right. else:
-    The player orders their hand increasing in numerical value from right to left. else:
-      The player doesn't order their hand and sorts cards in groups of the same numerical values.
-4. Before starting, determine the turn order among the players by age:
-  The oldest player gets the first turn:
+    The player can also order their hand increasing in numerical value from right to left. else:
+      The player doesn't have to order their hand and sorts cards in groups of the same numerical values.
+4. Before starting, choose a method to determine the turn order among the players, like age:
+  The player gets the first turn:
     From the first player, rotate clockwise with turns going from player to player without skipping. else:
       Rotate counter-clockwise with turns going from player to player without skipping anyone.
       
